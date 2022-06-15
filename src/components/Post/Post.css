@@ -1,13 +1,12 @@
 .liked-colorOn{
-    background-color: green;
+    fill: green;
 }
-.liked-colorOff{
-    background-color: gray;
+.colorOff{
+    fill: gray;
 }
 .disliked-colorOn{
-    background-color: red;
+    fill: red;
 }
-.disliked-colorOff{
-    background-color: gray;
+.thumb-size{
+    width: 40px;
 }
-

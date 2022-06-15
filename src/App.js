@@ -17,10 +17,15 @@ function App() {
 
   return (
     <div >
-     <NavBar />
-     <CreatePost addNewEntryProperty={addNewEntry}/>
-     <PostMapper array={posts}/>
-    
+      <div>
+       <NavBar />
+      </div>
+      <div className=''>
+       <CreatePost addNewEntryProperty={addNewEntry}/>
+      </div>
+      <div>
+        <PostMapper array={posts}/>
+      </div>
     </div>
   );
 }
