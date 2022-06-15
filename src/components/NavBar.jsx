@@ -2,7 +2,7 @@ import React from 'react'
 
 const NaveBar = (props) => {
     return ( 
-        <header></header>
+        <header>Social Feed</header>
      );
 }
  

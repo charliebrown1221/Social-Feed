@@ -1,0 +1,13 @@
+.liked-colorOn{
+    background-color: green;
+}
+.liked-colorOff{
+    background-color: gray;
+}
+.disliked-colorOn{
+    background-color: red;
+}
+.disliked-colorOff{
+    background-color: gray;
+}
+
