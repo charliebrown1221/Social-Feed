@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-
+import "./Post/Post.css"
 const CreatePost = (props) => {
     const [name, setName]=useState('')
     const [text, setText]=useState('')
@@ -21,12 +21,12 @@ const CreatePost = (props) => {
         <form onSubmit={handelPost}>
             <div>
            <label>Name</label>
-              <input type="text" value={name} onChange={(event)=> setName(event.target.value)}/>
+              <input className='name-box' type="text" value={name} onChange={(event)=> setName(event.target.value)}/>
               </div>
               <div>
               <label>Post</label>
-              <input type="text" value={text} onChange={(event)=> setText(event.target.value)} />
-              <button type="submit">Create</button>
+              <input className='post-box' type="text" value={text} onChange={(event)=> setText(event.target.value)} />
+              <button className='Create-button' type="submit">Create</button>
               </div>
             
         </form>

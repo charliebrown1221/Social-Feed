@@ -1,0 +1,28 @@
+.create-post{
+	border-radius: 25px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+    margin-bottom: 1em;
+    padding: 1em;
+    width: 500px;
+    box-shadow: 10px 10px 8px  gray ;
+    background-color: white;
+    box-align: center;
+   
+}
+.background{
+    background-color: #e2f2ee;
+}
+.nav{
+    margin-bottom: 1em;
+    margin-top: 2em;
+    padding-left: 20px;
+    background-color: white;
+    width: 1940px;
+    height: 100px;
+    font-size: x-large;
+    
+
+}

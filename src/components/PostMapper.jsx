@@ -3,7 +3,7 @@ import Post from './Post/Post';
 
 const PostMapper = ({array}) => {
     return ( 
-        <ul>
+        <ul className='bullet'>
             {array.map( (item)=><li key ={item.id}> <Post post={item}/> </li>)}
         </ul>
      );

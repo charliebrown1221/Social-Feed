@@ -7,6 +7,39 @@
 .disliked-colorOn{
     fill: red;
 }
+.thumb-sizeUp{
+    width: 30px;
+   
+}
 .thumb-size{
-    width: 40px;
+    width: 30px;
+    margin-left: 400px ;
+}
+.Create-button{
+    background-color: rgba(91, 160, 228, 0.761);
+    border-radius: 25px;
+    position: absolute;bottom: 600px;
+}
+.name-box{
+    border-radius: 10px;
+    margin-bottom: 1em;
+    margin-left: .3em;
+    width: 400px;
+    height: 30px;
+
+}
+.post-box{
+    border-radius: 10px;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    width: 400px;
+    height: 60px;
+}
+.feed{
+    height: 200px;
+    width: 450px;
+    
+}
+.bullet{
+    list-style-type: none;
 }
