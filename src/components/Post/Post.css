@@ -51,8 +51,10 @@
     margin-top: -50px;
 }
 .nav-textF{
-  color:cornflowerblue;
-}
-.nav-textL{
-  font-style: italic;
-}
+    color:cornflowerblue;
+    text-shadow: 2px 2px;
+  }
+  .nav-textL{
+    font-style: italic;
+    text-shadow: 2px 2px;
+  }
