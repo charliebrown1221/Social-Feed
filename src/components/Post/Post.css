@@ -17,9 +17,9 @@
     
 }
 .Create-button{
-    background-color: rgba(91, 160, 228, 0.761);
+    background-color: cornflowerblue;
     border-radius: 25px;
-    position: absolute;bottom: 630px;
+    position: absolute;bottom: 600px;
 }
 .name-box{
     border-radius: 10px;
@@ -48,4 +48,10 @@
     font-size: x-small;
     margin-left: -400px;
     margin-top: -50px;
+}
+.nav-textF{
+  color:cornflowerblue;
+}
+.nav-textL{
+  font-style: italic;
 }
