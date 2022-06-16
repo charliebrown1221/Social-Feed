@@ -14,11 +14,12 @@
 .thumb-size{
     width: 30px;
     margin-left: 400px ;
+    
 }
 .Create-button{
     background-color: rgba(91, 160, 228, 0.761);
     border-radius: 25px;
-    position: absolute;bottom: 600px;
+    position: absolute;bottom: 630px;
 }
 .name-box{
     border-radius: 10px;
@@ -42,4 +43,9 @@
 }
 .bullet{
     list-style-type: none;
+}
+.date-size{
+    font-size: x-small;
+    margin-left: -400px;
+    margin-top: -50px;
 }

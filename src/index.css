@@ -14,15 +14,17 @@
 }
 .background{
     background-color: #e2f2ee;
+    height: 200vh;
 }
 .nav{
-    margin-bottom: 1em;
+
     margin-top: 2em;
     padding-left: 20px;
     background-color: white;
     width: 1940px;
     height: 100px;
     font-size: x-large;
+   
     
-
+   
 }

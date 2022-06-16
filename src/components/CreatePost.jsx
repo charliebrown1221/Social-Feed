@@ -33,5 +33,5 @@ const CreatePost = (props) => {
        
      );
 }
-  console.log(CreatePost)
+//   console.log(CreatePost)
 export default CreatePost;
